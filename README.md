@@ -42,9 +42,9 @@ Contacts App is a simple Android application built with Jetpack Compose. It allo
 ## Download
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/muralimallela/MyMemory/releases/latest)
+    height="80">](https://github.com/muralimallela/ContactsApp/releases/latest)
     
-Download the latest release of the app from the [GitHub Releases Page](https://github.com/muralimallela/contacts-app/releases).
+Download the latest release of the app from the [GitHub Releases Page](https://github.com/muralimallela/ContactsApp/releases).
 
 ---
 
